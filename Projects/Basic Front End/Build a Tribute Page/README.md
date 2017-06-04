@@ -1,5 +1,5 @@
 <h1><strong> BUILD A TRIBUTE PAGE </strong> </h1>
-<h3><u>Objective:</u></h3> Build a CodePen.io app that is functionally similar to this: <a href="https://codepen.io/FreeCodeCamp/full/NNvBQW/"></a>
+<h3><u>Objective:</u></h3> Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/"
 <h3><u>Project Guidelines: </u></h3>
 
 <ol type="1">
