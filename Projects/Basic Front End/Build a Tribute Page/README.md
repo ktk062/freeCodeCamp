@@ -1,9 +1,8 @@
 <h1><strong> BUILD A TRIBUTE PAGE </strong> </h1>
-
+<h3><u>Objective:</u></h3> Build a CodePen.io app that is functionally similar to this: <a href="https://codepen.io/FreeCodeCamp/full/NNvBQW/"></a>
 <h3><u>Project Guidelines: </u></h3>
 
 <ol type="1">
-  <li> Objective: Build a CodePen.io app that is functionally similar to this: <a href="https://codepen.io/FreeCodeCamp/full/NNvBQW/"></a></li>
   <li> Fulfill the below user stories. Use whichever libraries you need. Give it your own personal style. </li>
    <ul>
      <li> User Story: I can view a tribute page with an image and text. </li>
