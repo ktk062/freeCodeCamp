@@ -1,2 +1,5 @@
 # freeCodeCamp
-My journey through Free Code Camp's Open Source projects 
+Welcome to my journey through <a href="freecodecamp.com">Free Code Camp's</a> open source coursework and projects. 
+
+More coming soon! 
+
