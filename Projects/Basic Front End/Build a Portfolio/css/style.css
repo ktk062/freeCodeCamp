@@ -1,0 +1,93 @@
+/*
+ * Globals
+ */
+ /*--all purpose container--*/
+ .kk-container {
+   position: relative;
+   padding: 10px 30px;
+ }
+ /*--Links-- */
+
+
+ /*
+  * Structure
+  */
+html, body {
+  height: 100%;
+}
+div.container-fluid {
+  overflow: hidden;
+  padding: 0;
+}
+
+/*
+ * Navbar
+ */
+ .navbar {
+   background-color: transparent;
+   padding: 15px 15px 0;
+ }
+ .nav {
+   position: relative;
+   display: inline-block;
+   float: right;
+ }
+ a.nav-link {
+    color: #fff;
+    font-size: 1.5em;
+    padding: 10px;
+}
+/*--logo--*/
+.logo {
+  position: relative;
+  display: inline-flex;
+  color: #fff;
+}
+
+
+
+ /*
+  * Site Wrapper
+  */
+ .site-wrapper{
+   min-height: 500px;
+   background: #3494E6;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   box-shadow: 0.5rem 1rem 1rem 0 rgba(0,0,0,0.2);
+
+ }
+
+#site-wrapper-text{
+  text-align: center;
+  padding-top: 120px;
+}
+#site-wrapper-text span{
+  font-size: 1.2em;
+  font-weight: 300;
+}
+/*--title--*/
+.title {
+  text-align: center;
+  font-size: 5em;
+}
+
+#about, #work, #contact {min-height: 300px;}
+#about{
+}
+#work {
+  background: #1D976C;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#contact {
+  background: #4CB8C4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3CD3AD, #4CB8C4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3CD3AD, #4CB8C4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+/*Footer*/
+footer{
+  min-height: 200px;
+  background-color: #555;
+  color: #fff;
+}
